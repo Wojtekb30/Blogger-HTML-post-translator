@@ -15,14 +15,14 @@ It's a program I made for translating Blogger posts. It translates text written 
 
 5. Type destination language code (for example pl, en, es etc.).
 
-6. Choose and open the text or HTML file you want to translate.
+6. Choose the text or HTML file you want to translate.
 ![image](https://user-images.githubusercontent.com/112283903/208311268-96042906-67ac-4bba-85cb-f2cd36027ec7.png)
 
 7. Wait for the program to finish.
 
 8. When it finishes, save the result, then press ENTER/RETURN to close the program.
 
-9. Use the new HTML. If you're using Blogger - open the translated file in Notepad and paste it into HTML editor view of a new Blogger post. Preview if it works and looks well.
+9. Use the new translated HTML. If you're using Blogger - open the translated file in Notepad and paste it into HTML editor view of a new Blogger post. Preview if it works and looks well. Make corrections if necessary.
 ![image](https://user-images.githubusercontent.com/112283903/208311523-a6fb65d8-ff18-48e4-8411-1a1db35e1a1f.png)
 ![image](https://user-images.githubusercontent.com/112283903/208311377-5450d766-b66c-4135-ae9e-32bd2b6775b4.png)
 
@@ -35,3 +35,7 @@ If it doesn't work (and you're running the .py file), you might have to download
 pip3 install googletrans==3.1.0a0
 
 If program freezes for a long time, click inside its terminal window and press ENTER/RETURN.
+
+If you need help or found a issue, please write in Issues or Discussions, or E-mail me at admin@birdtech.pl or wojtekb30.player@gmail.com
+
+Thank you!
