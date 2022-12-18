@@ -28,7 +28,7 @@ It's a program I made for translating Blogger posts. It translates text written 
 
 <b>How it works and troubleshooting:</b>
 
-The program scans text of chosen file until it finds "&lt;p>". It then sends text until "&lt;/p>" to the translator (Python googletrans library). After translating, the text it puts the translated text back into the document where the original would be. It repeats until it reads (and translates) entire document.
+The program scans text of chosen file until it finds "&lt;p>". It then sends text until "&lt;/p>" to the translator (Python googletrans library). After translating the text, it puts it back into the document where the original would be. It does that until it reads (and translates) entire document.
 
 If it doesn't work (and you're running the .py file), you might have to download proper (latest) version of googletrans. To do that use terminal command:
 
